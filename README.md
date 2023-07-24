@@ -1,1 +1,3 @@
 # Linear_regression
+
+In this data analysis project, we assisted Jamboree, a leading education consultancy, in understanding graduate admissions factors and predicting admission chances. Using Exploratory Data Analysis, we explored the dataset's characteristics, checked for missing values, and visualized distributions. We built Linear Regression models and tested assumptions, including multicollinearity, residuals, homoscedasticity, and normality. By evaluating model performance and metrics like MAE, RMSE, R2, and Adjusted R2, we provided actionable insights and recommendations for improving the model's accuracy and real-world implementation.
